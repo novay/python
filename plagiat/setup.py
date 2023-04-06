@@ -10,11 +10,11 @@ with open(path.join(HERE, 'README.md'), encoding='utf-8') as f:
     
 setup(
     name="plagiat",
-    version="0.1.3",
+    version="0.1.6",
     description="Library untuk memeriksa tingkat plagiarisme.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://novay.web.id/",
+    url="https://github.com/novay/python/tree/main/plagiat",
     author="Novianto Rahmadi",
     author_email="novay@btekno.id",
     license="MIT",

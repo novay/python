@@ -5,8 +5,8 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import PorterStemmer
 
-nltk.download('stopwords')
-nltk.download('punkt')
+# nltk.download('stopwords')
+# nltk.download('punkt')
 
 from plagiat.rabin_karp import rabin_karp
 from plagiat.jaccard import jaccard
